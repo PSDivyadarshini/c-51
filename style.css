@@ -1,0 +1,33 @@
+
+h1{
+    color:blueviolet
+}
+p{
+    color:crimson
+}
+*{
+    border:transparent;
+}
+.header{
+color:pink;
+background-color: royalblue;
+display:flex;
+justify-content :space-between;
+}
+.grid{
+    display:flex;
+    display:wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display:flex;
+    background-color: tomato;
+    justify-content: flex-end;
+
+}
+p,h2{
+    text-align: center;
+}
+body{
+    background-color: #abcdef;
+}
